@@ -1,0 +1,9 @@
+Components: 1. 6-Datapick.f
+            2. 6-Datapick.sh
+            3. proc_grids.f
+            4. textgrid.sh
+            5. input files: Bin files and corresponding proc files
+
+Step 1: chmod 755 6-Datapick.sh to provide executable permission
+Step 1: chmod 755 textgrid.sh to provide executable permission
+Step 2: run using ./6-Datapick.sh

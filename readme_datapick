@@ -1,0 +1,10 @@
+Components: 1. 6-Datapick.f
+            2. 6-Datapick.sh
+            3. grid_limits
+            4. input files, which were found from B-based binning. For proc files, corresponding
+               array dimensions need to be added in the .f file
+
+Step 1: Provide limits of L and Alpha values and corresponding grid numbers/filenames in the form:
+        L1 L2 Alpha1 Aplha2 gridN
+Step 2: chmod 755 6-Datapick.sh to provide executable permission
+Step 3: run using ./6-Datapick.sh
